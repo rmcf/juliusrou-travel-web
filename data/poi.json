@@ -1,1 +1,1766 @@
-[{"type":"Feature","properties":{"title":{"en":"Potsdam","ua":"Потсдам","ru":"Потсдам"},"country":["DEU"],"date":"28.09.2024","url":"https://www.youtube.com/watch?v=-FRR5gSHLec","img":"photo_109.webp"},"geometry":{"type":"Point","coordinates":[13.047353,52.39946]}},{"type":"Feature","properties":{"title":{"en":"Esbjerg","ua":"Есб'єрг","ru":"Эсбьерг"},"country":["DNK"],"date":"15.09.2024","url":"https://www.youtube.com/watch?v=0MGYXf8ad5Q","img":"photo_108.webp"},"geometry":{"type":"Point","coordinates":[8.443153,55.473125]}},{"type":"Feature","properties":{"title":{"en":"Tallinn-Riga-Vilnius","ua":"Таллінн-Рига-Вільнюс","ru":"Таллинн-Рига-Вильнюс"},"country":["EST","LVA","LTU"],"date":"31.08.2024","url":"https://www.youtube.com/watch?v=Nh4h2eay_kY","img":"photo_107.webp"},"geometry":{"type":"Point","coordinates":[24.737248,59.439911]}},{"type":"Feature","properties":{"title":{"en":"Muhu","ua":"Муху","ru":"Муху"},"country":["EST"],"date":"18.08.2024","url":"https://www.youtube.com/watch?v=plyxGMz4B74","img":"photo_106.webp"},"geometry":{"type":"Point","coordinates":[23.233946,58.605547]}},{"type":"Feature","properties":{"title":{"en":"Tampere","ua":"Тампере","ru":"Тампере"},"country":["FIN"],"date":"11.08.2024","url":"https://www.youtube.com/watch?v=DuoGtPVNENk","img":"photo_105.webp"},"geometry":{"type":"Point","coordinates":[23.764059,61.501127]}},{"type":"Feature","properties":{"title":{"en":"Varosha","ua":"Вароша","ru":"Вароша"},"country":["CYP"],"date":"03.08.2024","url":"https://www.youtube.com/watch?v=2nduwm2HlEI","img":"photo_104.webp"},"geometry":{"type":"Point","coordinates":[33.955706,35.105952]}},{"type":"Feature","properties":{"title":{"en":"Uppsala","ua":"Уппсала","ru":"Уппсала"},"country":["SWE"],"date":"21.07.2024","url":"https://www.youtube.com/watch?v=969y13pSfL8","img":"photo_102.webp"},"geometry":{"type":"Point","coordinates":[17.632058,59.855427]}},{"type":"Feature","properties":{"title":{"en":"Antsla","ua":"Антсла","ru":"Антсла"},"country":["EST"],"date":"21.08.2021","url":"https://www.youtube.com/watch?v=W5fmSGOWG3M","img":"photo_101.webp"},"geometry":{"type":"Point","coordinates":[26.492612,57.781087]}},{"type":"Feature","properties":{"title":{"en":"Viru raba","ua":"Віру","ru":"Виру"},"country":["EST"],"date":"06.07.2024","url":"https://www.youtube.com/watch?v=ptg61VCsMAU","img":"photo_100.webp"},"geometry":{"type":"Point","coordinates":[25.654497,59.468521]}},{"type":"Feature","properties":{"title":{"en":"Larvik","ua":"Ларвік","ru":"Ларвик"},"country":["NOR"],"date":"29.06.2024","url":"https://www.youtube.com/watch?v=AIo-I0qfXtU","img":"photo_99.webp"},"geometry":{"type":"Point","coordinates":[10.036747,59.048664]}},{"type":"Feature","properties":{"title":{"en":"Naissaar","ua":"Наїссаар","ru":"Найссаар"},"country":["EST"],"date":"15.06.2024","url":"https://www.youtube.com/watch?v=AUy8LQTCekE","img":"photo_98.webp"},"geometry":{"type":"Point","coordinates":[24.510709,59.603663]}},{"type":"Feature","properties":{"title":{"en":"Ventspils","ua":"Вентспілс","ru":"Вентспилс"},"country":["LVA"],"date":"02.06.2024","url":"https://www.youtube.com/watch?v=yBJH44qlcz8","img":"photo_69.webp"},"geometry":{"type":"Point","coordinates":[21.568025,57.394863]}},{"type":"Feature","properties":{"title":{"en":"Grimsby","ua":"Грімсбі","ru":"Гримсби"},"country":["ENG"],"date":"25.05.2024","url":"https://youtu.be/3m4cqVKrWHw?feature=shared","img":"photo_48.webp"},"geometry":{"type":"Point","coordinates":[-0.080164,53.574802]}},{"type":"Feature","properties":{"title":{"en":"Tartu","ua":"Тарту","ru":"Тарту"},"country":["EST"],"date":"21.05.2024","url":"https://www.youtube.com/watch?v=r7EJWj1BlJo","img":"photo_53.webp"},"geometry":{"type":"Point","coordinates":[26.722222,58.380076]}},{"type":"Feature","properties":{"title":{"en":"Suwałki","ua":"Сувалки","ru":"Сувалки"},"country":["POL"],"date":"11.05.2024","url":"https://www.youtube.com/watch?v=FE1zHNwkKD8","img":"photo_56.webp"},"geometry":{"type":"Point","coordinates":[22.927903,54.10916]}},{"type":"Feature","properties":{"title":{"en":"Suomenlinna","ua":"Суоменлінна","ru":"Суоменлинна"},"country":["FIN"],"date":"27.04.2024","url":"https://www.youtube.com/watch?v=M9XMXWoNcIM","img":"photo_70.webp"},"geometry":{"type":"Point","coordinates":[24.986333,60.147843]}},{"type":"Feature","properties":{"title":{"en":"Riga","ua":"Рига","ru":"Рига"},"country":["LVA"],"date":"21.04.2024","url":"https://www.youtube.com/watch?v=X2Fgyls92a0","img":"photo_62.webp"},"geometry":{"type":"Point","coordinates":[24.121259,56.946745]}},{"type":"Feature","properties":{"title":{"en":"Edinburgh","ua":"Единбург","ru":"Эдинбург"},"country":["SCT"],"date":"13.04.2024","url":"https://www.youtube.com/watch?v=r7V7ww0yZrE","img":"photo_57.webp"},"geometry":{"type":"Point","coordinates":[-3.186937,55.956534]}},{"type":"Feature","properties":{"title":{"en":"Batumi","ua":"Батумі","ru":"Батуми"},"country":["GEO"],"date":"06.04.2024","url":"https://www.youtube.com/watch?v=QhOnovS1lOc","img":"photo_52.webp"},"geometry":{"type":"Point","coordinates":[41.618863,41.637162]}},{"type":"Feature","properties":{"title":{"en":"Berlin","ua":"Берлін","ru":"Берлин"},"country":["DEU"],"date":"02.04.2024","url":"https://www.youtube.com/watch?v=7galQpynkNI","img":"photo_85.webp"},"geometry":{"type":"Point","coordinates":[13.386465,52.490061]}},{"type":"Feature","properties":{"title":{"en":"Nicosia","ua":"Нікосія","ru":"Никосия"},"country":["CYP"],"date":"16.03.2024","url":"https://www.youtube.com/watch?v=SVY2d7GAL0s","img":"photo_49.webp"},"geometry":{"type":"Point","coordinates":[33.359206,35.168815]}},{"type":"Feature","properties":{"title":{"en":"Riga","ua":"Рига","ru":"Рига"},"country":["LVA"],"date":"03.03.2024","url":"https://www.youtube.com/watch?v=5UAxVvEyzoc","img":"photo_63.webp"},"geometry":{"type":"Point","coordinates":[24.122103,56.942233]}},{"type":"Feature","properties":{"title":{"en":"Venice","ua":"Венеція","ru":"Венеция"},"country":["ITA"],"date":"10.02.2024","url":"https://www.youtube.com/watch?v=9IiRAKegTM0","img":"photo_50.webp"},"geometry":{"type":"Point","coordinates":[12.329839,45.437547]}},{"type":"Feature","properties":{"title":{"en":"Karkkila","ua":"Карккіла","ru":"Карккила"},"country":["FIN"],"date":"28.01.2024","url":"https://www.youtube.com/watch?v=TlT4PXGofhM","img":"photo_71.webp"},"geometry":{"type":"Point","coordinates":[24.208303,60.5327]}},{"type":"Feature","properties":{"title":{"en":"Paphos","ua":"Пафос","ru":"Пафос"},"country":["CYP"],"date":"13.01.2024","url":"https://www.youtube.com/watch?v=v-fDLECrqQw","img":"photo_78.webp"},"geometry":{"type":"Point","coordinates":[32.421845,34.775378]}},{"type":"Feature","properties":{"title":{"en":"London","ua":"Лондон","ru":"Лондон"},"country":["ENG"],"date":"24.12.2023","url":"https://www.youtube.com/watch?v=YaDMva59qz8","img":"photo_82.webp"},"geometry":{"type":"Point","coordinates":[-0.322431,51.457328]}},{"type":"Feature","properties":{"title":{"en":"Berlin","ua":"Берлін","ru":"Берлин"},"country":["DEU"],"date":"16.12.2023","url":"https://www.youtube.com/watch?v=xi_7LXfv96s","img":"photo_86.webp"},"geometry":{"type":"Point","coordinates":[13.372111,52.520719]}},{"type":"Feature","properties":{"title":{"en":"Noarootsi","ua":"Ноароотсі","ru":"Ноароотси"},"country":["EST"],"date":"18.11.2023","url":"https://www.youtube.com/watch?v=rhqiCCrZfuQ","img":"photo_47.webp"},"geometry":{"type":"Point","coordinates":[23.509249,59.037045]}},{"type":"Feature","properties":{"title":{"en":"Gol","ua":"Гуль","ru":"Гуль"},"country":["NOR"],"date":"11.11.2023","url":"https://www.youtube.com/watch?v=367j6KN0bqU","img":"photo_84.webp"},"geometry":{"type":"Point","coordinates":[8.97075,60.699176]}},{"type":"Feature","properties":{"title":{"en":"Rinkeby","ua":"Рінкебю","ru":"Ринкебю"},"country":["SWE"],"date":"27.10.2023","url":"https://www.youtube.com/watch?v=JaVQITcjWnA","img":"photo_59.webp"},"geometry":{"type":"Point","coordinates":[17.930006,59.387641]}},{"type":"Feature","properties":{"title":{"en":"Helsinki","ua":"Хельсінки","ru":"Хельсинки"},"country":["FIN"],"date":"15.10.2023","url":"https://www.youtube.com/watch?v=K4iBF8wLpPE","img":"photo_72.webp"},"geometry":{"type":"Point","coordinates":[24.964296,60.189654]}},{"type":"Feature","properties":{"title":{"en":"Kaibaldi","ua":"Кайбальді","ru":"Кайбальди"},"country":["EST"],"date":"30.09.2023","url":"https://youtu.be/UJ0yVmhQOyY?feature=shared","img":"photo_46.webp"},"geometry":{"type":"Point","coordinates":[22.666022,58.973765]}},{"type":"Feature","properties":{"title":{"en":"Lahti","ua":"Лахті","ru":"Лахти"},"country":["FIN"],"date":"23.09.2023","url":"https://www.youtube.com/watch?v=5JG7daRrxgA","img":"photo_73.webp"},"geometry":{"type":"Point","coordinates":[25.661399,60.982627]}},{"type":"Feature","properties":{"title":{"en":"Viljandi","ua":"Вільянді","ru":"Вильянди"},"country":["EST"],"date":"12.09.2023","url":"https://youtu.be/ki3Pr5BcOV0?feature=shared","img":"photo_45.webp"},"geometry":{"type":"Point","coordinates":[25.586051,58.363372]}},{"type":"Feature","properties":{"title":{"en":"Vilnius","ua":"Вільнюс","ru":"Вильнюс"},"country":["LTU"],"date":"02.09.2023","url":"https://www.youtube.com/watch?v=7XN__p5BkjM","img":"photo_81.webp"},"geometry":{"type":"Point","coordinates":[25.273771,54.698275]}},{"type":"Feature","properties":{"title":{"en":"Tartu","ua":"Тарту","ru":"Тарту"},"country":["EST"],"date":"20.08.2023","url":"https://youtu.be/3Jk8QDrWzUw","img":"photo_01.webp"},"geometry":{"type":"Point","coordinates":[26.707032,58.373926]}},{"type":"Feature","properties":{"title":{"en":"Lappeenranta","ua":"Лаппеенранта","ru":"Лаппеэнранта"},"country":["FIN"],"date":"06.08.2023","url":"https://www.youtube.com/watch?v=_glrq6csFeU","img":"photo_74.webp"},"geometry":{"type":"Point","coordinates":[28.185259,61.059752]}},{"type":"Feature","properties":{"title":{"en":"Kuldīga","ua":"Кулдіга","ru":"Кулдига"},"country":["LVA"],"date":"22.07.2023","url":"https://www.youtube.com/watch?v=45DvhoA0Zzk","img":"photo_64.webp"},"geometry":{"type":"Point","coordinates":[21.970822,56.967973]}},{"type":"Feature","properties":{"title":{"en":"Mõisaküla","ua":"Мийзакюла","ru":"Мыйзакюла"},"country":["EST"],"date":"08.07.2023","url":"https://www.youtube.com/watch?v=q5JypuYmdGU","img":"photo_95.webp"},"geometry":{"type":"Point","coordinates":[25.183155,58.09243]}},{"type":"Feature","properties":{"title":{"en":"Riga","ua":"Рига","ru":"Рига"},"country":["LVA"],"date":"12.06.2023","url":"https://www.youtube.com/watch?v=oqtBFss0fuo","img":"photo_65.webp"},"geometry":{"type":"Point","coordinates":[24.111701,56.950433]}},{"type":"Feature","properties":{"title":{"en":"Bran","ua":"Бран","ru":"Бран"},"country":["ROU"],"date":"04.06.2023","url":"https://www.youtube.com/watch?v=UCELvs-r0rA","img":"photo_54.webp"},"geometry":{"type":"Point","coordinates":[25.370539,45.516188]}},{"type":"Feature","properties":{"title":{"en":"Helsinki","ua":"Хельсінки","ru":"Хельсинки"},"country":["FIN"],"date":"21.05.2023","url":"https://www.youtube.com/watch?v=KOzaUvBzLFA","img":"photo_75.webp"},"geometry":{"type":"Point","coordinates":[24.911801,60.156952]}},{"type":"Feature","properties":{"title":{"en":"Võsu","ua":"Визу","ru":"Вызу"},"country":["EST"],"date":"14.05.2023","url":"https://youtu.be/zgFjoqYs1Os","img":"photo_02.webp"},"geometry":{"type":"Point","coordinates":[25.968982,59.579171]}},{"type":"Feature","properties":{"title":{"en":"Drakenbergsområdet","ua":"Дракенберг","ru":"Дракенберг"},"country":["SWE"],"date":"06.05.2023","url":"https://www.youtube.com/watch?v=obTIhaETMp4","img":"photo_60.webp"},"geometry":{"type":"Point","coordinates":[18.034253,59.315332]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"29.04.2023","url":"https://www.youtube.com/watch?v=xJAW230TYO8","img":"photo_87.webp"},"geometry":{"type":"Point","coordinates":[24.756664,59.432908]}},{"type":"Feature","properties":{"title":{"en":"Oslo","ua":"Осло","ru":"Осло"},"country":["NOR"],"date":"23.04.2023","url":"https://www.youtube.com/watch?v=-EzLqFjlglk","img":"photo_83.webp"},"geometry":{"type":"Point","coordinates":[10.741498,59.914468]}},{"type":"Feature","properties":{"title":{"en":"Rakvere","ua":"Раквере","ru":"Раквере"},"country":["EST"],"date":"16.04.2023","url":"https://youtu.be/Uy0dLuuSOd0","img":"photo_03.webp"},"geometry":{"type":"Point","coordinates":[26.361462,59.34775]}},{"type":"Feature","properties":{"title":{"en":"Soomaa","ua":"Соомаа","ru":"Соомаа"},"country":["EST"],"date":"09.04.2023","url":"https://youtu.be/T6ki3gofBAo","img":"photo_04.webp"},"geometry":{"type":"Point","coordinates":[25.105556,58.440833]}},{"type":"Feature","properties":{"title":{"en":"Vejle","ua":"Вайле","ru":"Вайле"},"country":["DNK"],"date":"25.03.2023","url":"https://www.youtube.com/watch?v=E8r8HX93QPo","img":"photo_58.webp"},"geometry":{"type":"Point","coordinates":[9.536487,55.71157]}},{"type":"Feature","properties":{"title":{"en":"Otepää","ua":"Отепяе","ru":"Отепя"},"country":["EST"],"date":"11.03.2023","url":"https://youtu.be/FkJRQxH3FiU","img":"photo_05.webp"},"geometry":{"type":"Point","coordinates":[26.496821,58.060195]}},{"type":"Feature","properties":{"title":{"en":"Stockholm","ua":"Стокгольм","ru":"Стокгольм"},"country":["SWE"],"date":"04.03.2023","url":"https://www.youtube.com/watch?v=8t4NR_Dbh48","img":"photo_61.webp"},"geometry":{"type":"Point","coordinates":[18.083065,59.33663]}},{"type":"Feature","properties":{"title":{"en":"Kärdla","ua":"Кярдла","ru":"Кярдла"},"country":["EST"],"date":"17.02.2023","url":"https://youtu.be/QDhJkeOPo78?feature=shared","img":"photo_06.webp"},"geometry":{"type":"Point","coordinates":[22.746403,58.997599]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"11.02.2023","url":"https://www.youtube.com/watch?v=sQiKjGYeUxc","img":"photo_88.webp"},"geometry":{"type":"Point","coordinates":[24.753603,59.436913]}},{"type":"Feature","properties":{"title":{"en":"Kaunas","ua":"Каунас","ru":"Каунас"},"country":["LTU"],"date":"28.01.2023","url":"https://www.youtube.com/watch?v=wmNsluinulU","img":"photo_80.webp"},"geometry":{"type":"Point","coordinates":[23.91359,54.897335]}},{"type":"Feature","properties":{"title":{"en":"Kuressaare","ua":"Курессааре","ru":"Курессааре"},"country":["EST"],"date":"14.01.2023","url":"https://youtu.be/ghLarG0BDOA?feature=shared","img":"photo_07.webp"},"geometry":{"type":"Point","coordinates":[22.485004,58.252909]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"11.12.2022","url":"https://www.youtube.com/watch?v=wnCSEjrflWs","img":"photo_89.webp"},"geometry":{"type":"Point","coordinates":[24.755948,59.438736]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"26.11.2022","url":"https://www.youtube.com/watch?v=6vQn_8DB2c8","img":"photo_90.webp"},"geometry":{"type":"Point","coordinates":[24.745347,59.438156]}},{"type":"Feature","properties":{"title":{"en":"Helsinki","ua":"Хельсінки","ru":"Хельсинки"},"country":["FIN"],"date":"10.11.2022","url":"https://www.youtube.com/watch?v=LFUnXbGNQmQ","img":"photo_76.webp"},"geometry":{"type":"Point","coordinates":[25.070145,60.221729]}},{"type":"Feature","properties":{"title":{"en":"Jõgeva","ua":"Йигева","ru":"Йыгева"},"country":["EST"],"date":"14.10.2022","url":"https://youtu.be/6LsAOAMgI7M?feature=shared","img":"photo_08.webp"},"geometry":{"type":"Point","coordinates":[26.38761,58.742561]}},{"type":"Feature","properties":{"title":{"en":"Narvik","ua":"Нарвік","ru":"Нарвик"},"country":["NOR"],"date":"27.09.2022","url":"https://www.youtube.com/watch?v=eKW2kz6GYr0","img":"photo_55.webp"},"geometry":{"type":"Point","coordinates":[17.427195,68.438381]}},{"type":"Feature","properties":{"title":{"en":"Gällivare","ua":"Єлліваре","ru":"Елливаре"},"country":["SWE"],"date":"28.08.2022","url":"https://www.youtube.com/watch?v=xn1aW4i1m3w","img":"photo_51.webp"},"geometry":{"type":"Point","coordinates":[20.660589,67.138499]}},{"type":"Feature","properties":{"title":{"en":"Jūrmala","ua":"Юрмала","ru":"Юрмала"},"country":["LVA"],"date":"26.07.2022","url":"https://www.youtube.com/watch?v=UTGDmUF1GMY","img":"photo_66.webp"},"geometry":{"type":"Point","coordinates":[23.773705,56.968388]}},{"type":"Feature","properties":{"title":{"en":"Kihnu","ua":"Кіхну","ru":"Кихну"},"country":["EST"],"date":"28.06.2022","url":"https://youtu.be/er4vfvm0Ysw?feature=shared","img":"photo_09.webp"},"geometry":{"type":"Point","coordinates":[23.982749,58.132663]}},{"type":"Feature","properties":{"title":{"en":"Valmiera","ua":"Валмієра","ru":"Валмиера"},"country":["LVA"],"date":"30.05.2022","url":"https://www.youtube.com/watch?v=m2LJVrHfsPs","img":"photo_67.webp"},"geometry":{"type":"Point","coordinates":[25.422962,57.538019]}},{"type":"Feature","properties":{"title":{"en":"Põltsamaa","ua":"Пилтсамаа","ru":"Пылтсамаа"},"country":["EST"],"date":"25.05.2022","url":"https://youtu.be/eac0zOHwFE4?feature=shared","img":"photo_10.webp"},"geometry":{"type":"Point","coordinates":[25.973235,58.653373]}},{"type":"Feature","properties":{"title":{"en":"Käsmu","ua":"Кясму","ru":"Кясму"},"country":["EST"],"date":"30.04.2022","url":"https://youtu.be/ErgrBgBnVTE?feature=shared","img":"photo_11.webp"},"geometry":{"type":"Point","coordinates":[25.919534,59.603752]}},{"type":"Feature","properties":{"title":{"en":"Vilnius","ua":"Вільнюс","ru":"Вильнюс"},"country":["LTU"],"date":"19.04.2022","url":"https://www.youtube.com/watch?v=mFp7lA-qYOQ","img":"photo_79.webp"},"geometry":{"type":"Point","coordinates":[25.291431,54.686912]}},{"type":"Feature","properties":{"title":{"en":"Helsinki","ua":"Хельсінки","ru":"Хельсинки"},"country":["FIN"],"date":"21.02.2022","url":"https://www.youtube.com/watch?v=4bfxAYeZiNI","img":"photo_77.webp"},"geometry":{"type":"Point","coordinates":[24.954419,60.167699]}},{"type":"Feature","properties":{"title":{"en":"Riga","ua":"Рига","ru":"Рига"},"country":["LVA"],"date":"30.01.2022","url":"https://www.youtube.com/watch?v=0cDz2CQ1Ybk","img":"photo_68.webp"},"geometry":{"type":"Point","coordinates":[24.105354,56.949599]}},{"type":"Feature","properties":{"title":{"en":"Kohila","ua":"Кохіла","ru":"Кохила"},"country":["EST"],"date":"15.01.2022","url":"https://youtu.be/Aj9CGAkpWIg?feature=shared","img":"photo_12.webp"},"geometry":{"type":"Point","coordinates":[24.749982,59.167625]}},{"type":"Feature","properties":{"title":{"en":"Viivikonna","ua":"Війвіконна","ru":"Вийвиконна"},"country":["EST"],"date":"11.12.2021","url":"https://youtu.be/uzS0EMTyZ54?feature=shared","img":"photo_13.webp"},"geometry":{"type":"Point","coordinates":[27.694093,59.338492]}},{"type":"Feature","properties":{"title":{"en":"Valga","ua":"Валга","ru":"Валга"},"country":["EST"],"date":"25.09.2021","url":"https://youtu.be/kf-hVRYKHps?feature=shared","img":"photo_14.webp"},"geometry":{"type":"Point","coordinates":[26.036351,57.777692]}},{"type":"Feature","properties":{"title":{"en":"Pärnu","ua":"Пярну","ru":"Пярну"},"country":["EST"],"date":"04.09.2021","url":"https://youtu.be/j4JuYliEq4k?feature=shared","img":"photo_15.webp"},"geometry":{"type":"Point","coordinates":[24.506505,58.383737]}},{"type":"Feature","properties":{"title":{"en":"Aegna","ua":"Аегна","ru":"Аэгна"},"country":["EST"],"date":"14.08.2021","url":"https://youtu.be/E6qTQv6JIZ0?feature=shared","img":"photo_16.webp"},"geometry":{"type":"Point","coordinates":[24.751452,59.582197]}},{"type":"Feature","properties":{"title":{"en":"Tapa","ua":"Тапа","ru":"Тапа"},"country":["EST"],"date":"30.07.2021","url":"https://youtu.be/5CLgINLm6YY?feature=shared","img":"photo_17.webp"},"geometry":{"type":"Point","coordinates":[25.962877,59.262048]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"26.06.2021","url":"https://www.youtube.com/watch?v=MGoZtQfX9iY","img":"photo_96.webp"},"geometry":{"type":"Point","coordinates":[24.641929,59.434321]}},{"type":"Feature","properties":{"title":{"en":"Haapsalu","ua":"Гаапсалу","ru":"Хаапсалу"},"country":["EST"],"date":"27.07.2024","url":"https://www.youtube.com/watch?v=T7fN31iY2dA","img":"photo_103.webp"},"geometry":{"type":"Point","coordinates":[23.541219,58.939369]}},{"type":"Feature","properties":{"title":{"en":"Sillamäe","ua":"Сілламяе","ru":"Силламяэ"},"country":["EST"],"date":"12.06.2021","url":"https://youtu.be/9sjYUNiiPNc?feature=shared","img":"photo_20.webp"},"geometry":{"type":"Point","coordinates":[27.762132,59.396114]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"28.05.2021","url":"https://www.youtube.com/watch?v=LZQf6NjWmNc","img":"photo_91.webp"},"geometry":{"type":"Point","coordinates":[24.805604,59.420377]}},{"type":"Feature","properties":{"title":{"en":"Käru","ua":"Кяру","ru":"Кяру"},"country":["EST"],"date":"14.05.2021","url":"https://www.youtube.com/watch?v=LGYDUsnLeBk","img":"photo_97.webp"},"geometry":{"type":"Point","coordinates":[25.143431,58.834184]}},{"type":"Feature","properties":{"title":{"en":"Klooga","ua":"Клоога","ru":"Клоога"},"country":["EST"],"date":"08.05.2021","url":"https://youtu.be/cZfKPv70wS4?feature=shared","img":"photo_21.webp"},"geometry":{"type":"Point","coordinates":[24.230678,59.319248]}},{"type":"Feature","properties":{"title":{"en":"Paide","ua":"Пайде","ru":"Пайде"},"country":["EST"],"date":"23.04.2021","url":"https://youtu.be/rVIHFD9Nubg?feature=shared","img":"photo_22.webp"},"geometry":{"type":"Point","coordinates":[25.569946,58.887115]}},{"type":"Feature","properties":{"title":{"en":"Hara","ua":"Хара","ru":"Хара"},"country":["EST"],"date":"04.03.2021","url":"https://youtu.be/QfZ02cKDnz0?feature=shared","img":"photo_23.webp"},"geometry":{"type":"Point","coordinates":[25.612262,59.588006]}},{"type":"Feature","properties":{"title":{"en":"Türi","ua":"Тюрі","ru":"Тюри"},"country":["EST"],"date":"30.01.2021","url":"https://youtu.be/UPYzQoAICQg?feature=shared","img":"photo_24.webp"},"geometry":{"type":"Point","coordinates":[25.428556,58.80794]}},{"type":"Feature","properties":{"title":{"en":"Varbola","ua":"Варбола","ru":"Варбола"},"country":["EST"],"date":"20.01.2021","url":"https://youtu.be/enSE7FapM1Y?feature=shared","img":"photo_25.webp"},"geometry":{"type":"Point","coordinates":[24.510238,59.040203]}},{"type":"Feature","properties":{"title":{"en":"Saku","ua":"Саку","ru":"Саку"},"country":["EST"],"date":"05.01.2021","url":"https://youtu.be/9Hx4SlFFm6k?feature=shared","img":"photo_26.webp"},"geometry":{"type":"Point","coordinates":[24.662323,59.300489]}},{"type":"Feature","properties":{"title":{"en":"Turba","ua":"Турба","ru":"Турба"},"country":["EST"],"date":"16.12.2020","url":"https://youtu.be/BIRWCsOKyoE?feature=shared","img":"photo_27.webp"},"geometry":{"type":"Point","coordinates":[24.240979,59.079764]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"25.11.2020","url":"https://www.youtube.com/watch?v=rW5_2zr-s_U","img":"photo_93.webp"},"geometry":{"type":"Point","coordinates":[24.823395,59.436022]}},{"type":"Feature","properties":{"title":{"en":"Hiiumaa","ua":"Гіюмаа","ru":"Хийумаа"},"country":["EST"],"date":"19.09.2020","url":"https://youtu.be/UZUdJMvSOx0?feature=shared","img":"photo_29.webp"},"geometry":{"type":"Point","coordinates":[22.943441,58.871123]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"04.09.2020","url":"https://www.youtube.com/watch?v=PmNSS4DcOjc","img":"photo_92.webp"},"geometry":{"type":"Point","coordinates":[24.67282,59.45569]}},{"type":"Feature","properties":{"title":{"en":"Kehra","ua":"Кегра","ru":"Кехра"},"country":["EST"],"date":"20.08.2020","url":"https://youtu.be/HALRgspsL-4?feature=shared","img":"photo_30.webp"},"geometry":{"type":"Point","coordinates":[25.33239,59.333866]}},{"type":"Feature","properties":{"title":{"en":"Maardu","ua":"Маарду","ru":"Маарду"},"country":["EST"],"date":"09.08.2020","url":"https://youtu.be/wOMTB8Jsaoc?feature=shared","img":"photo_31.webp"},"geometry":{"type":"Point","coordinates":[24.988763,59.456799]}},{"type":"Feature","properties":{"title":{"en":"Keila","ua":"Кейла","ru":"Кейла"},"country":["EST"],"date":"18.07.2020","url":"https://youtu.be/wOG9RgG3j8k?feature=shared","img":"photo_32.webp"},"geometry":{"type":"Point","coordinates":[24.415741,59.310773]}},{"type":"Feature","properties":{"title":{"en":"Narva-Jõesuu","ua":"Нарва-Йиесуу","ru":"Нарва-Йыэсуу"},"country":["EST"],"date":"11.07.2020","url":"https://youtu.be/EQD2HbGUNP4?feature=shared","img":"photo_33.webp"},"geometry":{"type":"Point","coordinates":[28.037894,59.45762]}},{"type":"Feature","properties":{"title":{"en":"Rabasaare","ua":"Рабасааре","ru":"Рабасааре"},"country":["EST"],"date":"20.06.2020","url":"https://youtu.be/9kFKGoPp0Bw?feature=shared","img":"photo_34.webp"},"geometry":{"type":"Point","coordinates":[25.805657,59.282666]}},{"type":"Feature","properties":{"title":{"en":"Tallinn","ua":"Таллінн","ru":"Таллинн"},"country":["EST"],"date":"02.06.2020","url":"https://www.youtube.com/watch?v=Ze0D_AUa_xE","img":"photo_94.webp"},"geometry":{"type":"Point","coordinates":[24.67752,59.46183]}},{"type":"Feature","properties":{"title":{"en":"Käru","ua":"Кяру","ru":"Кяру"},"country":["EST"],"date":"25.05.2020","url":"https://youtu.be/Y_3kIEozAK4?feature=shared","img":"photo_35.webp"},"geometry":{"type":"Point","coordinates":[25.140227,58.829891]}},{"type":"Feature","properties":{"title":{"en":"Rapla","ua":"Рапла","ru":"Рапла"},"country":["EST"],"date":"15.07.2019","url":"https://youtu.be/O6DMjLXRdMI?feature=shared","img":"photo_40.webp"},"geometry":{"type":"Point","coordinates":[24.804895,59.000026]}}]
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Potsdam",
+        "ua": "Потсдам",
+        "ru": "Потсдам"
+      },
+      "country": ["DEU"],
+      "date": "28.09.2024",
+      "url": "https://www.youtube.com/watch?v=-FRR5gSHLec",
+      "img": "photo_109.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.047353, 52.39946]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Esbjerg",
+        "ua": "Есб'єрг",
+        "ru": "Эсбьерг"
+      },
+      "country": ["DNK"],
+      "date": "15.09.2024",
+      "url": "https://www.youtube.com/watch?v=0MGYXf8ad5Q",
+      "img": "photo_108.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.443153, 55.473125]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn-Riga-Vilnius",
+        "ua": "Таллінн-Рига-Вільнюс",
+        "ru": "Таллинн-Рига-Вильнюс"
+      },
+      "country": ["EST", "LVA", "LTU"],
+      "date": "31.08.2024",
+      "url": "https://www.youtube.com/watch?v=Nh4h2eay_kY",
+      "img": "photo_107.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.737248, 59.439911]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Muhu",
+        "ua": "Муху",
+        "ru": "Муху"
+      },
+      "country": ["EST"],
+      "date": "18.08.2024",
+      "url": "https://www.youtube.com/watch?v=plyxGMz4B74",
+      "img": "photo_106.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.233946, 58.605547]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tampere",
+        "ua": "Тампере",
+        "ru": "Тампере"
+      },
+      "country": ["FIN"],
+      "date": "11.08.2024",
+      "url": "https://www.youtube.com/watch?v=DuoGtPVNENk",
+      "img": "photo_105.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.764059, 61.501127]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Varosha",
+        "ua": "Вароша",
+        "ru": "Вароша"
+      },
+      "country": ["CYP"],
+      "date": "03.08.2024",
+      "url": "https://www.youtube.com/watch?v=2nduwm2HlEI",
+      "img": "photo_104.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.955706, 35.105952]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Uppsala",
+        "ua": "Уппсала",
+        "ru": "Уппсала"
+      },
+      "country": ["SWE"],
+      "date": "21.07.2024",
+      "url": "https://www.youtube.com/watch?v=969y13pSfL8",
+      "img": "photo_102.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.632058, 59.855427]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Antsla",
+        "ua": "Антсла",
+        "ru": "Антсла"
+      },
+      "country": ["EST"],
+      "date": "21.08.2021",
+      "url": "https://www.youtube.com/watch?v=W5fmSGOWG3M",
+      "img": "photo_101.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.492612, 57.781087]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Viru raba",
+        "ua": "Віру",
+        "ru": "Виру"
+      },
+      "country": ["EST"],
+      "date": "06.07.2024",
+      "url": "https://www.youtube.com/watch?v=ptg61VCsMAU",
+      "img": "photo_100.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.654497, 59.468521]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Larvik",
+        "ua": "Ларвік",
+        "ru": "Ларвик"
+      },
+      "country": ["NOR"],
+      "date": "29.06.2024",
+      "url": "https://www.youtube.com/watch?v=AIo-I0qfXtU",
+      "img": "photo_99.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [10.036747, 59.048664]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Naissaar",
+        "ua": "Наїссаар",
+        "ru": "Найссаар"
+      },
+      "country": ["EST"],
+      "date": "15.06.2024",
+      "url": "https://www.youtube.com/watch?v=AUy8LQTCekE",
+      "img": "photo_98.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.510709, 59.603663]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Ventspils",
+        "ua": "Вентспілс",
+        "ru": "Вентспилс"
+      },
+      "country": ["LVA"],
+      "date": "02.06.2024",
+      "url": "https://www.youtube.com/watch?v=yBJH44qlcz8",
+      "img": "photo_69.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.568025, 57.394863]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Grimsby",
+        "ua": "Грімсбі",
+        "ru": "Гримсби"
+      },
+      "country": ["ENG"],
+      "date": "25.05.2024",
+      "url": "https://youtu.be/3m4cqVKrWHw?feature=shared",
+      "img": "photo_48.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.080164, 53.574802]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tartu",
+        "ua": "Тарту",
+        "ru": "Тарту"
+      },
+      "country": ["EST"],
+      "date": "21.05.2024",
+      "url": "https://www.youtube.com/watch?v=r7EJWj1BlJo",
+      "img": "photo_53.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.722222, 58.380076]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Suwałki",
+        "ua": "Сувалки",
+        "ru": "Сувалки"
+      },
+      "country": ["POL"],
+      "date": "11.05.2024",
+      "url": "https://www.youtube.com/watch?v=FE1zHNwkKD8",
+      "img": "photo_56.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.927903, 54.10916]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Suomenlinna",
+        "ua": "Суоменлінна",
+        "ru": "Суоменлинна"
+      },
+      "country": ["FIN"],
+      "date": "27.04.2024",
+      "url": "https://www.youtube.com/watch?v=M9XMXWoNcIM",
+      "img": "photo_70.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.986333, 60.147843]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Riga",
+        "ua": "Рига",
+        "ru": "Рига"
+      },
+      "country": ["LVA"],
+      "date": "21.04.2024",
+      "url": "https://www.youtube.com/watch?v=X2Fgyls92a0",
+      "img": "photo_62.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.121259, 56.946745]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Edinburgh",
+        "ua": "Единбург",
+        "ru": "Эдинбург"
+      },
+      "country": ["SCT"],
+      "date": "13.04.2024",
+      "url": "https://www.youtube.com/watch?v=r7V7ww0yZrE",
+      "img": "photo_57.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-3.186937, 55.956534]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Batumi",
+        "ua": "Батумі",
+        "ru": "Батуми"
+      },
+      "country": ["GEO"],
+      "date": "06.04.2024",
+      "url": "https://www.youtube.com/watch?v=QhOnovS1lOc",
+      "img": "photo_52.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.618863, 41.637162]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Berlin",
+        "ua": "Берлін",
+        "ru": "Берлин"
+      },
+      "country": ["DEU"],
+      "date": "02.04.2024",
+      "url": "https://www.youtube.com/watch?v=7galQpynkNI",
+      "img": "photo_85.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.386465, 52.490061]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Nicosia",
+        "ua": "Нікосія",
+        "ru": "Никосия"
+      },
+      "country": ["CYP"],
+      "date": "16.03.2024",
+      "url": "https://www.youtube.com/watch?v=SVY2d7GAL0s",
+      "img": "photo_49.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.359206, 35.168815]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Riga",
+        "ua": "Рига",
+        "ru": "Рига"
+      },
+      "country": ["LVA"],
+      "date": "03.03.2024",
+      "url": "https://www.youtube.com/watch?v=5UAxVvEyzoc",
+      "img": "photo_63.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.122103, 56.942233]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Venice",
+        "ua": "Венеція",
+        "ru": "Венеция"
+      },
+      "country": ["ITA"],
+      "date": "10.02.2024",
+      "url": "https://www.youtube.com/watch?v=9IiRAKegTM0",
+      "img": "photo_50.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.329839, 45.437547]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Karkkila",
+        "ua": "Карккіла",
+        "ru": "Карккила"
+      },
+      "country": ["FIN"],
+      "date": "28.01.2024",
+      "url": "https://www.youtube.com/watch?v=TlT4PXGofhM",
+      "img": "photo_71.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.208303, 60.5327]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Paphos",
+        "ua": "Пафос",
+        "ru": "Пафос"
+      },
+      "country": ["CYP"],
+      "date": "13.01.2024",
+      "url": "https://www.youtube.com/watch?v=v-fDLECrqQw",
+      "img": "photo_78.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.421845, 34.775378]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "London",
+        "ua": "Лондон",
+        "ru": "Лондон"
+      },
+      "country": ["ENG"],
+      "date": "24.12.2023",
+      "url": "https://www.youtube.com/watch?v=YaDMva59qz8",
+      "img": "photo_82.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.322431, 51.457328]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Berlin",
+        "ua": "Берлін",
+        "ru": "Берлин"
+      },
+      "country": ["DEU"],
+      "date": "16.12.2023",
+      "url": "https://www.youtube.com/watch?v=xi_7LXfv96s",
+      "img": "photo_86.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.372111, 52.520719]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Noarootsi",
+        "ua": "Ноароотсі",
+        "ru": "Ноароотси"
+      },
+      "country": ["EST"],
+      "date": "18.11.2023",
+      "url": "https://www.youtube.com/watch?v=rhqiCCrZfuQ",
+      "img": "photo_47.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.509249, 59.037045]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Gol",
+        "ua": "Гуль",
+        "ru": "Гуль"
+      },
+      "country": ["NOR"],
+      "date": "11.11.2023",
+      "url": "https://www.youtube.com/watch?v=367j6KN0bqU",
+      "img": "photo_84.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.97075, 60.699176]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Rinkeby",
+        "ua": "Рінкебю",
+        "ru": "Ринкебю"
+      },
+      "country": ["SWE"],
+      "date": "27.10.2023",
+      "url": "https://www.youtube.com/watch?v=JaVQITcjWnA",
+      "img": "photo_59.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.930006, 59.387641]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Helsinki",
+        "ua": "Хельсінки",
+        "ru": "Хельсинки"
+      },
+      "country": ["FIN"],
+      "date": "15.10.2023",
+      "url": "https://www.youtube.com/watch?v=K4iBF8wLpPE",
+      "img": "photo_72.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.964296, 60.189654]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Kaibaldi",
+        "ua": "Кайбальді",
+        "ru": "Кайбальди"
+      },
+      "country": ["EST"],
+      "date": "30.09.2023",
+      "url": "https://youtu.be/UJ0yVmhQOyY?feature=shared",
+      "img": "photo_46.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.666022, 58.973765]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Lahti",
+        "ua": "Лахті",
+        "ru": "Лахти"
+      },
+      "country": ["FIN"],
+      "date": "23.09.2023",
+      "url": "https://www.youtube.com/watch?v=5JG7daRrxgA",
+      "img": "photo_73.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.661399, 60.982627]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Viljandi",
+        "ua": "Вільянді",
+        "ru": "Вильянди"
+      },
+      "country": ["EST"],
+      "date": "12.09.2023",
+      "url": "https://youtu.be/ki3Pr5BcOV0?feature=shared",
+      "img": "photo_45.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.586051, 58.363372]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Vilnius",
+        "ua": "Вільнюс",
+        "ru": "Вильнюс"
+      },
+      "country": ["LTU"],
+      "date": "02.09.2023",
+      "url": "https://www.youtube.com/watch?v=7XN__p5BkjM",
+      "img": "photo_81.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.273771, 54.698275]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tartu",
+        "ua": "Тарту",
+        "ru": "Тарту"
+      },
+      "country": ["EST"],
+      "date": "20.08.2023",
+      "url": "https://youtu.be/3Jk8QDrWzUw",
+      "img": "photo_01.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.707032, 58.373926]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Lappeenranta",
+        "ua": "Лаппеенранта",
+        "ru": "Лаппеэнранта"
+      },
+      "country": ["FIN"],
+      "date": "06.08.2023",
+      "url": "https://www.youtube.com/watch?v=_glrq6csFeU",
+      "img": "photo_74.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.185259, 61.059752]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Kuldīga",
+        "ua": "Кулдіга",
+        "ru": "Кулдига"
+      },
+      "country": ["LVA"],
+      "date": "22.07.2023",
+      "url": "https://www.youtube.com/watch?v=45DvhoA0Zzk",
+      "img": "photo_64.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.970822, 56.967973]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Mõisaküla",
+        "ua": "Мийзакюла",
+        "ru": "Мыйзакюла"
+      },
+      "country": ["EST"],
+      "date": "08.07.2023",
+      "url": "https://www.youtube.com/watch?v=q5JypuYmdGU",
+      "img": "photo_95.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.183155, 58.09243]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Riga",
+        "ua": "Рига",
+        "ru": "Рига"
+      },
+      "country": ["LVA"],
+      "date": "12.06.2023",
+      "url": "https://www.youtube.com/watch?v=oqtBFss0fuo",
+      "img": "photo_65.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.111701, 56.950433]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Bran",
+        "ua": "Бран",
+        "ru": "Бран"
+      },
+      "country": ["ROU"],
+      "date": "04.06.2023",
+      "url": "https://www.youtube.com/watch?v=UCELvs-r0rA",
+      "img": "photo_54.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.370539, 45.516188]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Helsinki",
+        "ua": "Хельсінки",
+        "ru": "Хельсинки"
+      },
+      "country": ["FIN"],
+      "date": "21.05.2023",
+      "url": "https://www.youtube.com/watch?v=KOzaUvBzLFA",
+      "img": "photo_75.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.911801, 60.156952]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Võsu",
+        "ua": "Визу",
+        "ru": "Вызу"
+      },
+      "country": ["EST"],
+      "date": "14.05.2023",
+      "url": "https://youtu.be/zgFjoqYs1Os",
+      "img": "photo_02.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.968982, 59.579171]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Drakenbergsområdet",
+        "ua": "Дракенберг",
+        "ru": "Дракенберг"
+      },
+      "country": ["SWE"],
+      "date": "06.05.2023",
+      "url": "https://www.youtube.com/watch?v=obTIhaETMp4",
+      "img": "photo_60.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.034253, 59.315332]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "29.04.2023",
+      "url": "https://www.youtube.com/watch?v=xJAW230TYO8",
+      "img": "photo_87.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.756664, 59.432908]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Oslo",
+        "ua": "Осло",
+        "ru": "Осло"
+      },
+      "country": ["NOR"],
+      "date": "23.04.2023",
+      "url": "https://www.youtube.com/watch?v=-EzLqFjlglk",
+      "img": "photo_83.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [10.741498, 59.914468]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Rakvere",
+        "ua": "Раквере",
+        "ru": "Раквере"
+      },
+      "country": ["EST"],
+      "date": "16.04.2023",
+      "url": "https://youtu.be/Uy0dLuuSOd0",
+      "img": "photo_03.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.361462, 59.34775]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Soomaa",
+        "ua": "Соомаа",
+        "ru": "Соомаа"
+      },
+      "country": ["EST"],
+      "date": "09.04.2023",
+      "url": "https://youtu.be/T6ki3gofBAo",
+      "img": "photo_04.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.105556, 58.440833]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Vejle",
+        "ua": "Вайле",
+        "ru": "Вайле"
+      },
+      "country": ["DNK"],
+      "date": "25.03.2023",
+      "url": "https://www.youtube.com/watch?v=E8r8HX93QPo",
+      "img": "photo_58.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.536487, 55.71157]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Otepää",
+        "ua": "Отепяе",
+        "ru": "Отепя"
+      },
+      "country": ["EST"],
+      "date": "11.03.2023",
+      "url": "https://youtu.be/FkJRQxH3FiU",
+      "img": "photo_05.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.496821, 58.060195]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Stockholm",
+        "ua": "Стокгольм",
+        "ru": "Стокгольм"
+      },
+      "country": ["SWE"],
+      "date": "04.03.2023",
+      "url": "https://www.youtube.com/watch?v=8t4NR_Dbh48",
+      "img": "photo_61.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.083065, 59.33663]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Kärdla",
+        "ua": "Кярдла",
+        "ru": "Кярдла"
+      },
+      "country": ["EST"],
+      "date": "17.02.2023",
+      "url": "https://youtu.be/QDhJkeOPo78?feature=shared",
+      "img": "photo_06.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.746403, 58.997599]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "11.02.2023",
+      "url": "https://www.youtube.com/watch?v=sQiKjGYeUxc",
+      "img": "photo_88.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.753603, 59.436913]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Kaunas",
+        "ua": "Каунас",
+        "ru": "Каунас"
+      },
+      "country": ["LTU"],
+      "date": "28.01.2023",
+      "url": "https://www.youtube.com/watch?v=wmNsluinulU",
+      "img": "photo_80.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.91359, 54.897335]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Kuressaare",
+        "ua": "Курессааре",
+        "ru": "Курессааре"
+      },
+      "country": ["EST"],
+      "date": "14.01.2023",
+      "url": "https://youtu.be/ghLarG0BDOA?feature=shared",
+      "img": "photo_07.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.485004, 58.252909]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "11.12.2022",
+      "url": "https://www.youtube.com/watch?v=wnCSEjrflWs",
+      "img": "photo_89.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.755948, 59.438736]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "26.11.2022",
+      "url": "https://www.youtube.com/watch?v=6vQn_8DB2c8",
+      "img": "photo_90.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.745347, 59.438156]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Helsinki",
+        "ua": "Хельсінки",
+        "ru": "Хельсинки"
+      },
+      "country": ["FIN"],
+      "date": "10.11.2022",
+      "url": "https://www.youtube.com/watch?v=LFUnXbGNQmQ",
+      "img": "photo_76.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.070145, 60.221729]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Jõgeva",
+        "ua": "Йигева",
+        "ru": "Йыгева"
+      },
+      "country": ["EST"],
+      "date": "14.10.2022",
+      "url": "https://youtu.be/6LsAOAMgI7M?feature=shared",
+      "img": "photo_08.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.38761, 58.742561]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Narvik",
+        "ua": "Нарвік",
+        "ru": "Нарвик"
+      },
+      "country": ["NOR"],
+      "date": "27.09.2022",
+      "url": "https://www.youtube.com/watch?v=eKW2kz6GYr0",
+      "img": "photo_55.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.427195, 68.438381]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Gällivare",
+        "ua": "Єлліваре",
+        "ru": "Елливаре"
+      },
+      "country": ["SWE"],
+      "date": "28.08.2022",
+      "url": "https://www.youtube.com/watch?v=xn1aW4i1m3w",
+      "img": "photo_51.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [20.660589, 67.138499]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Jūrmala",
+        "ua": "Юрмала",
+        "ru": "Юрмала"
+      },
+      "country": ["LVA"],
+      "date": "26.07.2022",
+      "url": "https://www.youtube.com/watch?v=UTGDmUF1GMY",
+      "img": "photo_66.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.773705, 56.968388]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Kihnu",
+        "ua": "Кіхну",
+        "ru": "Кихну"
+      },
+      "country": ["EST"],
+      "date": "28.06.2022",
+      "url": "https://youtu.be/er4vfvm0Ysw?feature=shared",
+      "img": "photo_09.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.982749, 58.132663]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Valmiera",
+        "ua": "Валмієра",
+        "ru": "Валмиера"
+      },
+      "country": ["LVA"],
+      "date": "30.05.2022",
+      "url": "https://www.youtube.com/watch?v=m2LJVrHfsPs",
+      "img": "photo_67.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.422962, 57.538019]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Põltsamaa",
+        "ua": "Пилтсамаа",
+        "ru": "Пылтсамаа"
+      },
+      "country": ["EST"],
+      "date": "25.05.2022",
+      "url": "https://youtu.be/eac0zOHwFE4?feature=shared",
+      "img": "photo_10.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.973235, 58.653373]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Käsmu",
+        "ua": "Кясму",
+        "ru": "Кясму"
+      },
+      "country": ["EST"],
+      "date": "30.04.2022",
+      "url": "https://youtu.be/ErgrBgBnVTE?feature=shared",
+      "img": "photo_11.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.919534, 59.603752]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Vilnius",
+        "ua": "Вільнюс",
+        "ru": "Вильнюс"
+      },
+      "country": ["LTU"],
+      "date": "19.04.2022",
+      "url": "https://www.youtube.com/watch?v=mFp7lA-qYOQ",
+      "img": "photo_79.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.291431, 54.686912]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Helsinki",
+        "ua": "Хельсінки",
+        "ru": "Хельсинки"
+      },
+      "country": ["FIN"],
+      "date": "21.02.2022",
+      "url": "https://www.youtube.com/watch?v=4bfxAYeZiNI",
+      "img": "photo_77.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.954419, 60.167699]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Riga",
+        "ua": "Рига",
+        "ru": "Рига"
+      },
+      "country": ["LVA"],
+      "date": "30.01.2022",
+      "url": "https://www.youtube.com/watch?v=0cDz2CQ1Ybk",
+      "img": "photo_68.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.105354, 56.949599]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Kohila",
+        "ua": "Кохіла",
+        "ru": "Кохила"
+      },
+      "country": ["EST"],
+      "date": "15.01.2022",
+      "url": "https://youtu.be/Aj9CGAkpWIg?feature=shared",
+      "img": "photo_12.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.749982, 59.167625]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Viivikonna",
+        "ua": "Війвіконна",
+        "ru": "Вийвиконна"
+      },
+      "country": ["EST"],
+      "date": "11.12.2021",
+      "url": "https://youtu.be/uzS0EMTyZ54?feature=shared",
+      "img": "photo_13.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [27.694093, 59.338492]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Valga",
+        "ua": "Валга",
+        "ru": "Валга"
+      },
+      "country": ["EST"],
+      "date": "25.09.2021",
+      "url": "https://youtu.be/kf-hVRYKHps?feature=shared",
+      "img": "photo_14.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.036351, 57.777692]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Pärnu",
+        "ua": "Пярну",
+        "ru": "Пярну"
+      },
+      "country": ["EST"],
+      "date": "04.09.2021",
+      "url": "https://youtu.be/j4JuYliEq4k?feature=shared",
+      "img": "photo_15.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.506505, 58.383737]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Aegna",
+        "ua": "Аегна",
+        "ru": "Аэгна"
+      },
+      "country": ["EST"],
+      "date": "14.08.2021",
+      "url": "https://youtu.be/E6qTQv6JIZ0?feature=shared",
+      "img": "photo_16.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.751452, 59.582197]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tapa",
+        "ua": "Тапа",
+        "ru": "Тапа"
+      },
+      "country": ["EST"],
+      "date": "30.07.2021",
+      "url": "https://youtu.be/5CLgINLm6YY?feature=shared",
+      "img": "photo_17.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.962877, 59.262048]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "26.06.2021",
+      "url": "https://www.youtube.com/watch?v=MGoZtQfX9iY",
+      "img": "photo_96.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.641929, 59.434321]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Haapsalu",
+        "ua": "Гаапсалу",
+        "ru": "Хаапсалу"
+      },
+      "country": ["EST"],
+      "date": "27.07.2024",
+      "url": "https://www.youtube.com/watch?v=T7fN31iY2dA",
+      "img": "photo_103.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.541219, 58.939369]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Sillamäe",
+        "ua": "Сілламяе",
+        "ru": "Силламяэ"
+      },
+      "country": ["EST"],
+      "date": "12.06.2021",
+      "url": "https://youtu.be/9sjYUNiiPNc?feature=shared",
+      "img": "photo_20.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [27.762132, 59.396114]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "28.05.2021",
+      "url": "https://www.youtube.com/watch?v=LZQf6NjWmNc",
+      "img": "photo_91.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.805604, 59.420377]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Käru",
+        "ua": "Кяру",
+        "ru": "Кяру"
+      },
+      "country": ["EST"],
+      "date": "14.05.2021",
+      "url": "https://www.youtube.com/watch?v=LGYDUsnLeBk",
+      "img": "photo_97.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.143431, 58.834184]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Klooga",
+        "ua": "Клоога",
+        "ru": "Клоога"
+      },
+      "country": ["EST"],
+      "date": "08.05.2021",
+      "url": "https://youtu.be/cZfKPv70wS4?feature=shared",
+      "img": "photo_21.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.230678, 59.319248]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Paide",
+        "ua": "Пайде",
+        "ru": "Пайде"
+      },
+      "country": ["EST"],
+      "date": "23.04.2021",
+      "url": "https://youtu.be/rVIHFD9Nubg?feature=shared",
+      "img": "photo_22.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.569946, 58.887115]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Hara",
+        "ua": "Хара",
+        "ru": "Хара"
+      },
+      "country": ["EST"],
+      "date": "04.03.2021",
+      "url": "https://youtu.be/QfZ02cKDnz0?feature=shared",
+      "img": "photo_23.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.612262, 59.588006]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Türi",
+        "ua": "Тюрі",
+        "ru": "Тюри"
+      },
+      "country": ["EST"],
+      "date": "30.01.2021",
+      "url": "https://youtu.be/UPYzQoAICQg?feature=shared",
+      "img": "photo_24.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.428556, 58.80794]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Varbola",
+        "ua": "Варбола",
+        "ru": "Варбола"
+      },
+      "country": ["EST"],
+      "date": "20.01.2021",
+      "url": "https://youtu.be/enSE7FapM1Y?feature=shared",
+      "img": "photo_25.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.510238, 59.040203]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Saku",
+        "ua": "Саку",
+        "ru": "Саку"
+      },
+      "country": ["EST"],
+      "date": "05.01.2021",
+      "url": "https://youtu.be/9Hx4SlFFm6k?feature=shared",
+      "img": "photo_26.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.662323, 59.300489]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Turba",
+        "ua": "Турба",
+        "ru": "Турба"
+      },
+      "country": ["EST"],
+      "date": "16.12.2020",
+      "url": "https://youtu.be/BIRWCsOKyoE?feature=shared",
+      "img": "photo_27.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.240979, 59.079764]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "25.11.2020",
+      "url": "https://www.youtube.com/watch?v=rW5_2zr-s_U",
+      "img": "photo_93.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.823395, 59.436022]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Hiiumaa",
+        "ua": "Гіюмаа",
+        "ru": "Хийумаа"
+      },
+      "country": ["EST"],
+      "date": "19.09.2020",
+      "url": "https://youtu.be/UZUdJMvSOx0?feature=shared",
+      "img": "photo_29.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.943441, 58.871123]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "04.09.2020",
+      "url": "https://www.youtube.com/watch?v=PmNSS4DcOjc",
+      "img": "photo_92.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.67282, 59.45569]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Kehra",
+        "ua": "Кегра",
+        "ru": "Кехра"
+      },
+      "country": ["EST"],
+      "date": "20.08.2020",
+      "url": "https://youtu.be/HALRgspsL-4?feature=shared",
+      "img": "photo_30.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.33239, 59.333866]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Maardu",
+        "ua": "Маарду",
+        "ru": "Маарду"
+      },
+      "country": ["EST"],
+      "date": "09.08.2020",
+      "url": "https://youtu.be/wOMTB8Jsaoc?feature=shared",
+      "img": "photo_31.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.988763, 59.456799]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Keila",
+        "ua": "Кейла",
+        "ru": "Кейла"
+      },
+      "country": ["EST"],
+      "date": "18.07.2020",
+      "url": "https://youtu.be/wOG9RgG3j8k?feature=shared",
+      "img": "photo_32.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.415741, 59.310773]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Narva-Jõesuu",
+        "ua": "Нарва-Йиесуу",
+        "ru": "Нарва-Йыэсуу"
+      },
+      "country": ["EST"],
+      "date": "11.07.2020",
+      "url": "https://youtu.be/EQD2HbGUNP4?feature=shared",
+      "img": "photo_33.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.037894, 59.45762]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Rabasaare",
+        "ua": "Рабасааре",
+        "ru": "Рабасааре"
+      },
+      "country": ["EST"],
+      "date": "20.06.2020",
+      "url": "https://youtu.be/9kFKGoPp0Bw?feature=shared",
+      "img": "photo_34.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.805657, 59.282666]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "02.06.2020",
+      "url": "https://www.youtube.com/watch?v=Ze0D_AUa_xE",
+      "img": "photo_94.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.67752, 59.46183]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Käru",
+        "ua": "Кяру",
+        "ru": "Кяру"
+      },
+      "country": ["EST"],
+      "date": "25.05.2020",
+      "url": "https://youtu.be/Y_3kIEozAK4?feature=shared",
+      "img": "photo_35.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.140227, 58.829891]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Rapla",
+        "ua": "Рапла",
+        "ru": "Рапла"
+      },
+      "country": ["EST"],
+      "date": "15.07.2019",
+      "url": "https://youtu.be/O6DMjLXRdMI?feature=shared",
+      "img": "photo_40.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.804895, 59.000026]
+    }
+  }
+]
