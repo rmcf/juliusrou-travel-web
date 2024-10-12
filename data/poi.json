@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Palamuse",
+        "ua": "Паламусе",
+        "ru": "Паламусе"
+      },
+      "country": ["EST"],
+      "date": "12.10.2024",
+      "url": "https://www.youtube.com/watch?v=QbEUKkYWxz0",
+      "img": "photo_110.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.582988, 58.684445]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Potsdam",
         "ua": "Потсдам",
         "ru": "Потсдам"
