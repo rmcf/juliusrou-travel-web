@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Berlin",
+        "ua": "Берлін",
+        "ru": "Берлин"
+      },
+      "country": ["DEU"],
+      "date": "26.10.2024",
+      "url": "https://www.youtube.com/watch?v=ZcKCiCxrYPQ",
+      "img": "photo_111.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.407736, 52.52003]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Palamuse",
         "ua": "Паламусе",
         "ru": "Паламусе"
