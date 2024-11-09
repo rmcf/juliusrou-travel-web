@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Kakerdaja-Viru-Taevaskoda",
+        "ua": "Какердая-Віру-Таеваскода",
+        "ru": "Какердая-Виру-Таэваскода"
+      },
+      "country": ["EST"],
+      "date": "09.11.2024",
+      "url": "https://www.youtube.com/watch?v=tyVAhNC4zjU",
+      "img": "photo_112.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [27.049958, 58.107925]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Berlin",
         "ua": "Берлін",
         "ru": "Берлин"
