@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Cardiff-Bangor-Snowdonia",
+        "ua": "Кардіфф-Бангор-Сноудонія",
+        "ru": "Кардифф-Бангор-Сноудония"
+      },
+      "country": ["WLS"],
+      "date": "23.11.2024",
+      "url": "https://www.youtube.com/watch?v=F00TmfTXKxo",
+      "img": "photo_113.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-4.132035, 53.224978]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Kakerdaja-Viru-Taevaskoda",
         "ua": "Какердая-Віру-Таеваскода",
         "ru": "Какердая-Виру-Таэваскода"
