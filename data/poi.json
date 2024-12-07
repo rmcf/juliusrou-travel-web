@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Bishop's Stortford",
+        "ua": "Бішопс-Стортфорд",
+        "ru": "Бишопс-Стортфорд"
+      },
+      "country": ["ENG"],
+      "date": "07.12.2024",
+      "url": "https://www.youtube.com/watch?v=LFrVtM515Jg",
+      "img": "photo_114.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.15554, 51.861823]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Cardiff-Bangor-Snowdonia",
         "ua": "Кардіфф-Бангор-Сноудонія",
         "ru": "Кардифф-Бангор-Сноудония"
