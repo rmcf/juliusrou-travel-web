@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Batumi",
+        "ua": "Батумі",
+        "ru": "Батуми"
+      },
+      "country": ["GEO"],
+      "date": "28.12.2024",
+      "url": "https://www.youtube.com/watch?v=IoSSGTKeS0c",
+      "img": "photo_115.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [41.639247, 41.653353]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Bishop's Stortford",
         "ua": "Бішопс-Стортфорд",
         "ru": "Бишопс-Стортфорд"
