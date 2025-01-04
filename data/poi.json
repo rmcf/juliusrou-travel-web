@@ -39,9 +39,9 @@
     "type": "Feature",
     "properties": {
       "title": {
-        "en": "Cardiff-Bangor-Snowdonia",
-        "ua": "Кардіфф-Бангор-Сноудонія",
-        "ru": "Кардифф-Бангор-Сноудония"
+        "en": "Cardiff, Bangor, Snowdonia",
+        "ua": "Кардіфф, Бангор, Сноудонія",
+        "ru": "Кардифф, Бангор, Сноудония"
       },
       "country": ["WLS"],
       "date": "23.11.2024",
@@ -57,9 +57,9 @@
     "type": "Feature",
     "properties": {
       "title": {
-        "en": "Kakerdaja-Viru-Taevaskoda",
-        "ua": "Какердая-Віру-Таеваскода",
-        "ru": "Какердая-Виру-Таэваскода"
+        "en": "Kakerdaja, Viru, Taevaskoda",
+        "ua": "Какердая, Віру, Таеваскода",
+        "ru": "Какердая, Виру, Таэваскода"
       },
       "country": ["EST"],
       "date": "09.11.2024",
@@ -147,9 +147,9 @@
     "type": "Feature",
     "properties": {
       "title": {
-        "en": "Tallinn-Riga-Vilnius",
-        "ua": "Таллінн-Рига-Вільнюс",
-        "ru": "Таллинн-Рига-Вильнюс"
+        "en": "Tallinn, Riga, Vilnius",
+        "ua": "Таллінн, Рига, Вільнюс",
+        "ru": "Таллинн, Рига, Вильнюс"
       },
       "country": ["EST", "LVA", "LTU"],
       "date": "31.08.2024",
@@ -417,9 +417,9 @@
     "type": "Feature",
     "properties": {
       "title": {
-        "en": "Edinburgh",
-        "ua": "Единбург",
-        "ru": "Эдинбург"
+        "en": "Luss, Loch Ness, Edinburgh",
+        "ua": "Ласс, Лох-Несс, Единбург",
+        "ru": "Ласс, Лох-Несс, Эдинбург"
       },
       "country": ["SCT"],
       "date": "13.04.2024",
@@ -428,25 +428,7 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-3.186937, 55.956534]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "title": {
-        "en": "Batumi",
-        "ua": "Батумі",
-        "ru": "Батуми"
-      },
-      "country": ["GEO"],
-      "date": "06.04.2024",
-      "url": "https://www.youtube.com/watch?v=QhOnovS1lOc",
-      "img": "photo_52.webp"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [41.618863, 41.637162]
+      "coordinates": [-4.675225, 57.146509]
     }
   },
   {
@@ -572,7 +554,7 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-0.322431, 51.457328]
+      "coordinates": [0.009072, 51.513812]
     }
   },
   {
@@ -1317,24 +1299,6 @@
     "type": "Feature",
     "properties": {
       "title": {
-        "en": "Helsinki",
-        "ua": "Хельсінки",
-        "ru": "Хельсинки"
-      },
-      "country": ["FIN"],
-      "date": "21.02.2022",
-      "url": "https://www.youtube.com/watch?v=4bfxAYeZiNI",
-      "img": "photo_77.webp"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [24.954419, 60.167699]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "title": {
         "en": "Riga",
         "ua": "Рига",
         "ru": "Рига"
@@ -1749,24 +1713,6 @@
     "type": "Feature",
     "properties": {
       "title": {
-        "en": "Maardu",
-        "ua": "Маарду",
-        "ru": "Маарду"
-      },
-      "country": ["EST"],
-      "date": "09.08.2020",
-      "url": "https://youtu.be/wOMTB8Jsaoc?feature=shared",
-      "img": "photo_31.webp"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [24.988763, 59.456799]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "title": {
         "en": "Keila",
         "ua": "Кейла",
         "ru": "Кейла"
@@ -1851,24 +1797,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [25.140227, 58.829891]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "title": {
-        "en": "Rapla",
-        "ua": "Рапла",
-        "ru": "Рапла"
-      },
-      "country": ["EST"],
-      "date": "15.07.2019",
-      "url": "https://youtu.be/O6DMjLXRdMI?feature=shared",
-      "img": "photo_40.webp"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [24.804895, 59.000026]
     }
   }
 ]
