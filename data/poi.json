@@ -525,9 +525,9 @@
     "type": "Feature",
     "properties": {
       "title": {
-        "en": "Paphos",
-        "ua": "Пафос",
-        "ru": "Пафос"
+        "en": "Paphos, Limassol, Nicosia",
+        "ua": "Пафос, Лімасол, Нікосія",
+        "ru": "Пафос, Лимасол, Никосия"
       },
       "country": ["CYP"],
       "date": "13.01.2024",
@@ -536,7 +536,7 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [32.421845, 34.775378]
+      "coordinates": [33.038315, 34.671954]
     }
   },
   {
