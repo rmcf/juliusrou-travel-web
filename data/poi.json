@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Helsinki",
+        "ua": "Хельсінки",
+        "ru": "Хельсинки"
+      },
+      "country": ["FIN"],
+      "date": "18.01.2025",
+      "url": "https://www.youtube.com/watch?v=MGQszOLjtVM",
+      "img": "photo_116.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.940962, 60.168671]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Batumi",
         "ua": "Батумі",
         "ru": "Батуми"
