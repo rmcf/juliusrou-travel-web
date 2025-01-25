@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Paphos",
+        "ua": "Пафос",
+        "ru": "Пафос"
+      },
+      "country": ["CYP"],
+      "date": "25.01.2025",
+      "url": "https://www.youtube.com/watch?v=7XzHjT1NCgc",
+      "img": "photo_117.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.421831, 34.775355]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Helsinki",
         "ua": "Хельсінки",
         "ru": "Хельсинки"
