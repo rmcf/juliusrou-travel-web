@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Treviso",
+        "ua": "Тревізо",
+        "ru": "Тревизо"
+      },
+      "country": ["ITA"],
+      "date": "01.02.2025",
+      "url": "https://www.youtube.com/watch?v=xEGBkyCv0u0",
+      "img": "photo_118.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.24582, 45.665511]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Paphos",
         "ua": "Пафос",
         "ru": "Пафос"
