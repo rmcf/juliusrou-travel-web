@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Gothenburg",
+        "ua": "Гетеборг",
+        "ru": "Гётеборг"
+      },
+      "country": ["SWE"],
+      "date": "15.02.2025",
+      "url": "https://www.youtube.com/watch?v=U4ldDvTTzDs",
+      "img": "photo_120.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [11.966915, 57.707012]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Treviso",
         "ua": "Тревізо",
         "ru": "Тревизо"
