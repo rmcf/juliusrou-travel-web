@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Tallinn",
+        "ua": "Таллінн",
+        "ru": "Таллинн"
+      },
+      "country": ["EST"],
+      "date": "15.03.2025",
+      "url": "https://www.youtube.com/watch?v=LKosh6x75hM",
+      "img": "photo_121.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.745969, 59.436481]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Gothenburg",
         "ua": "Гетеборг",
         "ru": "Гётеборг"
