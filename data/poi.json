@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Dover, Cheddar, Salisbury",
+        "ua": "Дувр, Чеддер. Солсбері",
+        "ru": "Дувр, Чеддер, Солсбери"
+      },
+      "country": ["ENG"],
+      "date": "30.03.2025",
+      "url": "https://www.youtube.com/watch?v=V5P7OJALJg0",
+      "img": "photo_122.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [1.321839, 51.12867]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Tallinn",
         "ua": "Таллінн",
         "ru": "Таллинн"
