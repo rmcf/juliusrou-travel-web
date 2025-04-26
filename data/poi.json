@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Lymington, Needles, Godshill",
+        "ua": "Лімінгтон, Нідлс, Ґодсхіл",
+        "ru": "Лимингтон, Нидлс, Годсхил"
+      },
+      "country": ["ENG"],
+      "date": "26.04.2025",
+      "url": "https://www.youtube.com/watch?v=ZmJ7IiSmvaA",
+      "img": "photo_123.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.258629, 50.635262]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Dover, Cheddar, Salisbury",
         "ua": "Дувр, Чеддер. Солсбері",
         "ru": "Дувр, Чеддер, Солсбери"
