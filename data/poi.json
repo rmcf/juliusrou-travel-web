@@ -3,9 +3,9 @@
     "type": "Feature",
     "properties": {
       "title": {
-        "en": "Lymington, Needles, Godshill",
-        "ua": "Лімінгтон, Нідлс, Ґодсхіл",
-        "ru": "Лимингтон, Нидлс, Годсхил"
+        "en": "Isle of Wight: Needles, Godshill",
+        "ua": "Острів Вайт: Нідлс, Ґодсхіл",
+        "ru": "Остров Уайт: Нидлс, Годсхил"
       },
       "country": ["ENG"],
       "date": "26.04.2025",
