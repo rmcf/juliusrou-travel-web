@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Berlin: Neukölln",
+        "ua": "Берлін: Нойкьольн",
+        "ru": "Берлин: Нойкёльн"
+      },
+      "country": ["DEU"],
+      "date": "10.05.2025",
+      "url": "https://www.youtube.com/watch?v=P5ngOCUShsY",
+      "img": "photo_124.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.425095, 52.480789]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Isle of Wight: Needles, Godshill",
         "ua": "Острів Вайт: Нідлс, Ґодсхіл",
         "ru": "Остров Уайт: Нидлс, Годсхил"
