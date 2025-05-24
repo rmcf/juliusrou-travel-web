@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Santiago de Compostela",
+        "ua": "Сантьяго-де-Компостела",
+        "ru": "Сантьяго-де-Компостела"
+      },
+      "country": ["ESP"],
+      "date": "24.05.2025",
+      "url": "https://www.youtube.com/watch?v=loPi-WaHh5Y",
+      "img": "photo_125.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-8.545703, 42.880498]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Berlin: Neukölln",
         "ua": "Берлін: Нойкьольн",
         "ru": "Берлин: Нойкёльн"
