@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Helsinki: Hietaniemi Cemetery",
+        "ua": "Хельсінки: Хіетаніемі цвинтар",
+        "ru": "Хельсинки: Хиетаниеми кладбище"
+      },
+      "country": ["FIN"],
+      "date": "07.06.2025",
+      "url": "https://www.youtube.com/watch?v=hmFlLA8UCcs",
+      "img": "photo_126.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.915178, 60.170439]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Santiago de Compostela",
         "ua": "Сантьяго-де-Компостела",
         "ru": "Сантьяго-де-Компостела"
