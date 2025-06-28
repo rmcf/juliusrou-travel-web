@@ -3,6 +3,24 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "London",
+        "ua": "Лондон",
+        "ru": "Лондон"
+      },
+      "country": ["ENG"],
+      "date": "28.06.2025",
+      "url": "https://www.youtube.com/watch?v=Yx33YNnlNuQ",
+      "img": "photo_127.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.134475, 51.509892]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "Helsinki: Hietaniemi Cemetery",
         "ua": "Хельсінки: Хіетаніемі цвинтар",
         "ru": "Хельсинки: Хиетаниеми кладбище"
