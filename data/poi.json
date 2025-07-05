@@ -3,6 +3,25 @@
     "type": "Feature",
     "properties": {
       "title": {
+        "en": "Nida",
+        "ua": "Ніда",
+        "ru": "Нида"
+      },
+      "country": ["LTU"],
+      "date": "05.07.2025",
+      "url": "https://www.youtube.com/watch?v=jECQYZNu_4A",
+      "img": "photo_128.webp"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.006798, 55.303256]
+    }
+  },
+
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
         "en": "London",
         "ua": "Лондон",
         "ru": "Лондон"
